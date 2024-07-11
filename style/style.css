@@ -1,0 +1,77 @@
+body{
+    background-color: beige;
+    padding: 20px;
+    margin: 20px 200px;
+}
+
+.first{
+    background-color: antiquewhite;
+    margin: 30px 100px auto;
+    padding: 20px; 
+    border: 2px solid black;
+}
+
+.main{
+    margin: 10px 100px;
+}
+
+.col-6 .fname,.lname,.email{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.col-12 label{
+    display:block;
+    width:100%;
+}
+
+.btn{
+    color:white;
+    background-color: orange;
+    border-color: orange;
+    width:100%;
+    margin-top: 20px;
+}
+
+#fname,#lname,#email{
+    width:100%;
+}
+
+/* h1{
+    text-align: center;
+    margin-bottom: 20px;
+} */
+
+.star{
+    text-align: left;
+    color: orange;
+    margin-bottom: 0px;
+}
+
+.row div{
+    margin-bottom: 10px;
+}
+
+.checkbox{
+    padding: 10px;
+}
+
+input[type="checkbox"]{
+    margin-right: 10px;
+}
+
+.btn:hover{
+    color:white;
+    background-color: rgb(50, 172, 13);
+}
+
+.one{
+    margin: 3px auto;
+    display:flex;
+    margin-left:200px;
+    padding-bottom: 30px;
+}
+
+.one h1{
+    margin-left: 20px;
+}
